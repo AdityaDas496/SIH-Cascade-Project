@@ -7,3 +7,4 @@ pydantic>=2.0
 # pandapower>=3.5
 # Optional optimization upgrade:
 # ortools>=9.12
+scikit-learn
